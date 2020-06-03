@@ -1,0 +1,63 @@
+body {
+	background-color: hsl(0, 32%, 95%);
+	//background-color: white;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+#title h1 {
+	text-align: center;
+	font-family: 'Francois One', sans-serif;
+	font-weight: bold;
+	font-size: 100px;
+	margin-bottom: 2px;
+}
+
+#title p {
+	text-align: center;
+	//font-family: Arial;
+	font-weight: bold;
+	font-size: 25px;
+	margin-top: 20px;
+	padding-bottom: 20px;
+}
+
+#content {
+	background-color: hsl(0, 5%, 90%);
+	border-radius: 45px;
+	box-shadow: 18px 5px 5px hsl(0, 5%, 30%);
+	margin: 25px auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	width: 80%;
+}
+
+#image {
+	//border: solid black 5px;
+	max-width: 40%;
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 8px 5px 5px gray;
+	padding: 2px;
+	background-color: black;
+}
+
+#img-caption {
+	text-align: center;
+	padding-top: 20px;
+	//font-family: "Arial";
+}
+
+#tribute-info {
+	//font-family: "Arial";
+	margin: 50px 100px 50px 100px;
+	line-height: 1.8;
+}
+
+#link {
+	text-align: center;
+	//font-family: "Georgia";
+}
