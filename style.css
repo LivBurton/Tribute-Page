@@ -1,6 +1,5 @@
 body {
 	background-color: hsl(0, 32%, 95%);
-	//background-color: white;
 	font-family: 'Raleway', sans-serif;
 
 }
@@ -15,7 +14,6 @@ body {
 
 #title p {
 	text-align: center;
-	//font-family: Arial;
 	font-weight: bold;
 	font-size: 25px;
 	margin-top: 20px;
@@ -35,8 +33,7 @@ body {
 }
 
 #image {
-	//border: solid black 5px;
-	max-width: 40%;
+		max-width: 40%;
 	display: block;
 	margin: 0 auto;
 	border-radius: 10px;
@@ -48,16 +45,14 @@ body {
 #img-caption {
 	text-align: center;
 	padding-top: 20px;
-	//font-family: "Arial";
 }
 
 #tribute-info {
-	//font-family: "Arial";
 	margin: 50px 100px 50px 100px;
 	line-height: 1.8;
 }
 
 #link {
 	text-align: center;
-	//font-family: "Georgia";
+	font-size: 20px;
 }
